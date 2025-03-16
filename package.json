@@ -3,8 +3,10 @@
 	"author": "Christopher Richard Lee",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "related", "words" ],
+	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
